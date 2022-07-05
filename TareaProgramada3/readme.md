@@ -1,11 +1,11 @@
 # Tarea Programada 3
-Marcel CastroGrey, B91839
+Marcel Castro Grey, B91839
 
 Para compilar el código:
 make  // en caso de no estar en la carpeta se hace cd TareaProgramada3 y después se ejecuta  el make
 
 Para ejecutar el código:
-./bin/programadareporte
+./bin/programadatienda
 
 ///////////////////////////////////
 
